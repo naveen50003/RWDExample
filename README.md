@@ -1,5 +1,5 @@
-#Tips for RWD
+# Tips for RWD
 
-##Follow Tips(Browse this url if you need any guidance) 
+## Follow Tips(Browse this url if you need any guidance) 
 
-    [RWD Tips Guidance](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial)
+[RWD Tips Guidance](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial)
