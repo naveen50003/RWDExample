@@ -2,4 +2,4 @@
 
 ##Follow Tips(Browse this url if you need any guidance) 
 
-    https://www.tutorialrepublic.com/twitter-bootstrap-tutorial
+[RWD Tips Guidance](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial)
